@@ -1,0 +1,12 @@
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+        "namespace": "android_app",
+        "package_name": "com.example.bookshare",
+        "sha256_cert_fingerprints": [
+            "F9:32:57:E9:78:C6:F7:5F:C6:31:4A:7B:C5:7A:D9:FA:43:D0:51:3C:3D:E3:7D:5F:8C:EF:C8:15:FB:1C:69:69"
+        ]
+        }
+    }
+]  
